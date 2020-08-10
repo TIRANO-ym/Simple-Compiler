@@ -1,0 +1,15 @@
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.csprojAssemblyReference.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.csproj.CoreCompileInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.AssemblyInfoInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.AssemblyInfo.cs
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.exe
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.deps.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.runtimeconfig.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.runtimeconfig.dev.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.csproj.CopyComplete
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzerST\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzerST.genruntimeconfig.cache

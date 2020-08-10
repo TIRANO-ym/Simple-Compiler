@@ -1,0 +1,9 @@
+﻿int cnt=0;
+double ab = 1.01;
+int[] arr = {1, 2, 5};
+foreach(int n in arr){
+	if(ab < 12.4){
+		ab += 1.22E-10;
+		cnt++;
+	}
+}

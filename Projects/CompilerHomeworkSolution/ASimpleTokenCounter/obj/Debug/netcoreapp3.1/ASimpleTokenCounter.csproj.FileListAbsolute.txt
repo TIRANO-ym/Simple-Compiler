@@ -1,0 +1,15 @@
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.exe
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.deps.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.runtimeconfig.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.runtimeconfig.dev.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\ASimpleTokenCounter.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.csprojAssemblyReference.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.csproj.CoreCompileInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.AssemblyInfoInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.AssemblyInfo.cs
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.csproj.CopyComplete
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\ASimpleTokenCounter\obj\Debug\netcoreapp3.1\ASimpleTokenCounter.genruntimeconfig.cache

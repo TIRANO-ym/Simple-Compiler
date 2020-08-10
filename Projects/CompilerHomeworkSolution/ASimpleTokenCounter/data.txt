@@ -1,0 +1,4 @@
+﻿12 4 21 12.3 1E45 n1 age
+sym@gmail.com seong@naver.co.kr sym@hanbat.ac.kr
+2000.11.11 1998.04.26
+9804262400000 8901011402120

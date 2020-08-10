@@ -1,0 +1,15 @@
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.csprojAssemblyReference.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.csproj.CoreCompileInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.AssemblyInfoInputs.cache
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.AssemblyInfo.cs
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.exe
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.deps.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.runtimeconfig.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.runtimeconfig.dev.json
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\bin\Debug\netcoreapp3.1\IISPLParGenDll6.02.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.csproj.CopyComplete
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.dll
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.pdb
+D:\sym\학교\한밭대학교\4학년\컴파일러\실습\2020\CompilerHomeworkSolution\SimpleLexicalAnalyzer\obj\Debug\netcoreapp3.1\SimpleLexicalAnalyzer.genruntimeconfig.cache
